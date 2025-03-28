@@ -1,0 +1,88 @@
+{
+  "article": [
+    {
+      "key": "related_products",
+      "namespace": "custom",
+      "name": "関連商品",
+      "description": "",
+      "type": {
+        "name": "list.product_reference",
+        "category": "REFERENCE"
+      }
+    }
+  ],
+  "blog": [],
+  "brand": [],
+  "collection": [],
+  "company": [],
+  "company_location": [],
+  "location": [],
+  "market": [],
+  "order": [],
+  "page": [],
+  "product": [
+    {
+      "key": "_recommend",
+      "namespace": "custom",
+      "name": "関連商品のカスタム",
+      "description": "",
+      "type": {
+        "name": "list.product_reference",
+        "category": "REFERENCE"
+      }
+    },
+    {
+      "key": "color_1",
+      "namespace": "custom",
+      "name": "追加バリエーションカラー1",
+      "description": "",
+      "type": {
+        "name": "color",
+        "category": "COLOR"
+      }
+    },
+    {
+      "key": "color_2",
+      "namespace": "custom",
+      "name": "追加バリエーションカラー2",
+      "description": "",
+      "type": {
+        "name": "color",
+        "category": "COLOR"
+      }
+    },
+    {
+      "key": "list",
+      "namespace": "custom",
+      "name": "追加バリエーションリスト",
+      "description": "",
+      "type": {
+        "name": "list.product_reference",
+        "category": "REFERENCE"
+      }
+    }
+  ],
+  "variant": [
+    {
+      "key": "color_1",
+      "namespace": "custom",
+      "name": "バリエーションカラー1",
+      "description": "",
+      "type": {
+        "name": "color",
+        "category": "COLOR"
+      }
+    },
+    {
+      "key": "color_2",
+      "namespace": "custom",
+      "name": "バリエーションカラー2",
+      "description": "",
+      "type": {
+        "name": "color",
+        "category": "COLOR"
+      }
+    }
+  ],
+  "shop": []
+}
